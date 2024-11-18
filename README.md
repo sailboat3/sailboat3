@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hey!
 
 My name is Jack and I'm getting into programming here on GitHub!
 
