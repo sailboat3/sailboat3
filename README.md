@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/3b75f181-16e0-4396-a3b4-b631f06956b1)
+![Banner](assets/banner.png)
 ![Discord Badge](https://img.shields.io/badge/%40sailboat3-%235865F2?logo=discord&logoColor=white) [![Steam Badge](https://img.shields.io/badge/%40sailboat3-%231B2838?logo=steam&logoColor=white)](https://steamcommunity.com/id/sailboat3/) [![Scratch Badge](https://img.shields.io/badge/%40sailboat3-%23855CD6?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/sailboat3/) 
 
 # Welcome! 👋
