@@ -6,11 +6,11 @@ I'm Jack, a high school student that has way too many things to juggle at the sa
 
 ## About me
 - I use [Fedora Linux](https://fedoraproject.org/) as my operating system of choice
-- When working with Java and Kotlin you will find me using [IntelliJ Idea Community](https://github.com/JetBrains/intellij-community)
+- When working on Java programs, Android apps, and Minecraft mods, you will find me using [IntelliJ IDEA Community](https://github.com/JetBrains/intellij-community)
 - I enjoy using [Godot](https://godotengine.org/) to develop games (yes, I use gdscript), more details on the game that we're currently working on soon
 
-## Projects I'm working on
-- **Koala**: A networking and database manager designed to move data on FRC robots and matches from scouting devices to a central server
+## Projects I'm currently working on
+- **Koala**: A networking and database manager designed to move data on FRC robots and matches from scouting devices to a central server. Built for team [2046](https://tahomarobotics.org/)
 - **Top Secret Game**: Shhhhh
 
 There's probably more but I forgot
