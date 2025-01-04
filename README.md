@@ -1,13 +1,12 @@
 # Hey!
 
-My name is Jack and I'm getting into programming here on GitHub!
+My name is Jack and I've started programming here on GitHub!
 
 Some things I do:
 
 - FRC team
 - Apps
 - Games
-- Arch btw
 ---
 
 [![](https://raw.githubusercontent.com/sailboat3/sailboat3/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
