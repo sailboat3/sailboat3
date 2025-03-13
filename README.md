@@ -4,14 +4,15 @@
 # Welcome! 👋
 I'm Jack, a high school student that has way too many things to juggle at the same time.
 
-## About me
-- I use [Fedora Linux](https://fedoraproject.org/) as my operating system of choice
-- When working on Java programs, Android apps, and Minecraft mods, you will find me using [IntelliJ IDEA Community](https://github.com/JetBrains/intellij-community)
-- I enjoy using [Godot](https://godotengine.org/) to develop games (yes, I use gdscript), more details on the game that we're currently working on soon
+## About ~~me~~ my programming preferences
+- You'll typically find me using Java or Kotlin, but I dabble in other languages as well. Currently I'm using dart only for another project. 
+- Catppuccin. 
+- Jetbrains IDEs all the way. (Xept for Xcode!! 😝)
+- Some form of Linux, I switch between Arch and Fedora way too often. 
 
 ## Projects I'm currently working on
-- **Koala**: A networking and database manager designed to move data on FRC robots and matches from scouting devices to a central server. Built for team [2046](https://tahomarobotics.org/)
-- **Top Secret Game**: Shhhhh
+- **New [2046](https://tahomarobotics.org/) Scouting App**: Our team wants an app that runs on their phones, so we're rewriting the old scouting app in Dart and Flutter. 
+- **[Protocol G](https://x.com/usgprotocolg)** Use guns and tools to creatively navigate your way through an alien-infested, retro-futuristic spaceship hell-bent on destroying Earth!
 
 There's probably more but I forgot
 
