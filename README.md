@@ -5,7 +5,7 @@
 I'm Jack, a high school student that has way too many things to juggle at the same time.
 
 ## Projects I'm currently working on
-- **[Bear Scout](https://github.com/sailboat3/bearscout)**: A brand-new gamified scouting app built to unify all aspects of FRC scouting. See trends, view match predictions, and get an overview of a team in a snap. 
+- **[Beariscope](https://github.com/betterbearmetalcode/beariscope)**: A gamified scouting app built to unify all aspects of FRC scouting. See trends, view match predictions, and get an overview of a team in a snap. 
 - **[Protocol G](https://x.com/usgprotocolg)** Use guns and tools to creatively navigate your way through an alien-infested, retro-futuristic spaceship hell-bent on destroying Earth!
 
 There's probably more but I forgot
